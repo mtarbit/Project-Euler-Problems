@@ -1,0 +1,9 @@
+Some of my solutions and workings out for the problems from http://projecteuler.net
+
+Obviously it undermines the fun and challenge of the site if you cheat, so try not
+to peek if you're actively working on a problem and haven't completed it yet. I
+doubt my hack-'til-it-works solutions are the best source of inspiration anyway!
+
+The first 40 or 50 problems I did used Ruby and are in one monolithic euler.rb file
+since they tended to share functionality. Later solutions are in Python with one
+file per problem.
